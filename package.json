@@ -1,0 +1,23 @@
+{
+  "name": "test-conventional-github-releaser",
+  "version": "1.0.0",
+  "description": "Test repository to test the issue with conventional-github-releaser@2.0.2 throwing 404s",
+  "main": "''",
+  "scripts": {
+    "test": "''"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosvillademor/test-conventional-github-releaser.git"
+  },
+  "keywords": [
+    "github",
+    "releaser"
+  ],
+  "author": "Carlos Fernandez Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosvillademor/test-conventional-github-releaser/issues"
+  },
+  "homepage": "https://github.com/carlosvillademor/test-conventional-github-releaser#readme"
+}
